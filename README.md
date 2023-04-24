@@ -8,4 +8,4 @@
 4. **Day 11** : Microsot Azure 포털 이용한 클라우드 가상 머신 실습 </br>*"Windows 가상 머신(VM) 만들기"</br> "Linux 가상 머신(VM) 만들기"</br> "가상 네트워크(VNet) 만들기"</br>*
 5. **Day 12** : 머신러닝을 위한 데이터 시각화 </br> *"시각화를 위한 Matplotlib 패키지 사용법과 활용" </br> 데이터를 이용해 플롯 생성하기"</br>*
 6. **Day 13** : Microsoft Azure 포털 이용한 클라우드 서비스 실습 </br> *"Storage, Blob, File, Queue 실습"*
-7. **Day 14** : AI 기초
+7. **Day 14** : AI 기초,Data, Orange Data Mining, 모델의 평가 방법, Algorithm,  데이터 전처리, Scikit-Learn
