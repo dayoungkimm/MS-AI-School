@@ -9,3 +9,4 @@
 5. **Day 12** : 머신러닝을 위한 데이터 시각화 </br> *"시각화를 위한 Matplotlib 패키지 사용법과 활용" </br> 데이터를 이용해 플롯 생성하기"</br>*
 6. **Day 13** : Microsoft Azure 포털 이용한 클라우드 서비스 실습 </br> *"Storage, Blob, File, Queue 실습"*
 7. **Day 14** : AI 기초,Data, Orange Data Mining, 모델의 평가 방법, Algorithm,  데이터 전처리, Scikit-Learn
+8. **Day 15** : Microsoft Azure Cloud, DB, 쿼리 실습</br> *"WordPress 사이트 만들기"</br> "가상 네트워크 생성 후 NSG 통해 NIC 연결"</br> "WebApp 생성 및 Flask 배포"</br> "Azure SQL Database 실습</br> (단일 데이터베이스 만들기, Python을 사용한 데이터베이스 쿼리, SSMS 및 VSCODE 사용하여 연결 및 쿼리)"</br>*
