@@ -12,4 +12,5 @@
 8. **Day 15** : Microsoft Azure Cloud, DB, 쿼리 실습</br> *"WordPress 사이트 만들기"</br> "가상 네트워크 생성 후 NSG 통해 NIC 연결"</br> "WebApp 생성 및 Flask 배포"</br> "Azure SQL Database 실습</br> (단일 데이터베이스 만들기, Python을 사용한 데이터베이스 쿼리, SSMS 및 VSCODE 사용하여 연결 및 쿼리)"</br>*
 9. **Day 16** : 리눅스 기초, 리눅스 관리 핵심 명령, 리눅스에서 Azure 다루기
 10. **Day 17** : AI SKlearn 데이터 전처리 </br> *"Classification"</br>"Regression"</br>*
-10. **Day 18-19** : Docker 개념과 Kubernetes 실습
+11. **Day 18-19** : Docker 개념과 Kubernetes 실습 </
+12. **Day 22-** : 딥러닝 신경망의 기초와 구조
