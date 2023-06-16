@@ -14,4 +14,10 @@
 10. **Day 17** : AI SKlearn 데이터 전처리 </br> *"Classification"</br>"Regression"</br>*
 11. **Day 18-19** : Docker 개념과 Kubernetes 실습 </br>
 12. **Day 22-25** : 딥러닝 신경망의 기초와 구조</br>
-13. **Day 26** : Microsoft Azure 이용하여 CRUD 어플리케이션 실행 및 제작
+13. **Day 26** : Microsoft Azure 이용하여 CRUD 어플리케이션 실행 및 제작 </br>
+14. 통계 기본 개념 및 다양한 통계 기반 데이터 분 실습 </br>
+15. 이미지 다루기 및 데이터셋 구축 </br>
+16. 트랜스포머 활용한 자연어처리 </br>
+17. 데이터증강 라벨링 이미지 처리 </br>
+18. 데이터 셋 구성 및 loader 구현 </br>
+19. Pytorch 및 텐서 개념 및 실
